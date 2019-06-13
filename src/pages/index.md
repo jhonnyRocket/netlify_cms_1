@@ -1,16 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: A FULL STACK WEB DEVELOPER
+image: /img/web.jpg
+heading: Well-versed React dev
+subheading: React/Gatsby/Node/Express/PHP/Python/MongoDB/GraphQL
 mainpitch:
-  title: Why Kaldi
+  title: Why ME
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I am a full stack web developer with 7 years experience.
+    I started working as Front End Web Developer using jQuery, Bootstrap, HTML5, CSS3.
+    Later I used PHP/Laravel for my backend stuff and learned Wordpress/Shopify.
+    About 3 years ago, I started building websites using MERN stack (MongoDB/Express/React/Node) and it was great
+    and valuable experience in my professional life.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
